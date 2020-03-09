@@ -1,0 +1,136 @@
+body {
+    background: url("../images/vintage-wallpaper.png");
+    
+}
+
+/* Home Page Styles */
+.container {
+    margin-top: 70px;
+}
+
+.welcome {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.profile-img {
+    border-radius: 50%;
+    border: solid #ffffff 5px;
+    max-width: 300px;
+    max-height: 300px;
+}
+
+hr {
+    width: 40px;
+    border: solid #87cefa 2px;
+}
+
+.page-links {
+    margin-top: 40px;
+}
+
+h5 {
+    margin-bottom: 25px;
+}
+
+.info-section {
+    text-align: center;
+    font-family: 'Volkhov', serif;
+    color: #e28800;
+    font-size: 24pt;
+    margin-bottom: 20px;
+}
+
+h1, h2 {
+    font-family: 'Volkhov', serif;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a.link {
+    background-color: #808080;
+    padding: 10px;
+    border-radius: 20px;
+    color: #ffffff;
+}
+
+a.link:hover {
+    opacity: 0.5;
+}
+
+p {
+    font-family: 'Arvo', serif;
+}
+
+
+/* Contact Link Styles */
+
+.contact-links {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 40px;
+    width: 200px;
+    text-align: center;
+    border-radius: 50px;
+    text-decoration: none;
+  }
+  
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-google {
+    background: #007bb5;
+    color: #ffffff;
+}
+
+.fa-linkedin {
+    background: #007bb5;
+    color: #ffffff;
+}
+
+.fa-github {
+    background: #007bb5;
+    color: #ffffff;
+}
+
+/* Navbar Styles */
+
+.navbar-brand {
+    font-family: 'Courgette', cursive;
+    font-size: 20pt;
+}
+
+.nav-link {
+    font-family: 'Arvo', serif;
+}
+
+.navbar {
+    background-color: #87ceeb;
+    margin-bottom: 20px;
+}
+
+
+.about h2 {
+    font-size: 24pt;
+    text-align: center;
+}
+
+.about-section {
+    text-align: center;
+    font-size: 14pt;
+}
+
+.blog-thumbnail {
+    height: 200px;
+    width: 200px;
+}
+
