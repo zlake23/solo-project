@@ -1,6 +1,8 @@
 # Portfolio Project
 
-A simplet website design for a beginning portfolio.
+Kickstart Coding HW #1
+
+A simple website design for a beginning portfolio.
 
 CSS Bootstrap used: https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css
 
